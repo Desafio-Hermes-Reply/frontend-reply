@@ -1,0 +1,1 @@
+Esta pasta será responsável por armazenar os componentes de páginas do aplicativo.

@@ -1,0 +1,1 @@
+Esta pasta será responsável por armazenar os arquivos de estilo e outros recursos estáticos do aplicativo.

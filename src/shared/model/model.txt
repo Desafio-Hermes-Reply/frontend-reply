@@ -1,0 +1,1 @@
+Esta pasta será responsável por armazenar os modelos de dados e outras definições compartilhadas do aplicativo.

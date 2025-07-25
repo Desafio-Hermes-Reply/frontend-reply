@@ -1,0 +1,1 @@
+Esta pasta será responsável por armazenar os serviços compartilhados do aplicativo, como chamadas de API e lógica de negócios reutilizável.
